@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3829669175
+    locked: 0
+  - name: Player
+    uniqueID: 3315022021
+    locked: 0
+  - name: Objects
+    uniqueID: 2830062791
+    locked: 0
