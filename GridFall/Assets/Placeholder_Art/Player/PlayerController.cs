@@ -37,16 +37,13 @@ public class PlayerController : MonoBehaviour
     {
         playerControl.Disable();
     }
-
-  
+ 
     // Start is called before the first frame update
     void Start()
     {
-        movePoint.parent = null;
-        
+        movePoint.parent = null;     
     }
-
-    
+ 
     // Update is called once per frame
     void Update()
     {
