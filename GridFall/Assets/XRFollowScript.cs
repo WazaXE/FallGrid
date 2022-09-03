@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class XRFollowScript : MonoBehaviour
 {
+    //This is used to follow the playes movement around the game world
     public Transform player;
     public Vector3 offset;
 
