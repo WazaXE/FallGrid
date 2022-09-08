@@ -7,6 +7,7 @@ using Debug = UnityEngine.Debug;
 using UnityEngine.InputSystem;
 
 
+
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
